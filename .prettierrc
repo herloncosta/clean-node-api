@@ -1,0 +1,9 @@
+{
+    "singleQuote": true,
+    "printWidth": 80,
+    "tabWidth": 4,
+    "semi": false,
+    "endOfLine": "crlf",
+    "arrowParens": "avoid",
+    "editorconfig": true
+}
